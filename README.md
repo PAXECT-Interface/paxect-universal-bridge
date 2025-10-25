@@ -56,6 +56,6 @@ Trademarks and branding are protected under `TRADEMARKS.md`; source code is lice
 
 ## 📬 Contact & Community
 - 💬 Discussions — [https://github.com/PAXECT-Interface/paxect-core-plugin/discussions  ](https://github.com/PAXECT-Interface/paxect-core-complete/discussions)
-- 🧑‍💻 Issues — https://github.com/PAXECT-Interface/paxect-core-plugin/issues  
+- 🧑‍💻 Issues — [https://github.com/PAXECT-Interface/paxect-core-plugin/issues  ](https://github.com/PAXECT-Interface/paxect-core-complete/issues)
 - 📧 PAXECT-Team@outlook.com  
 - 💠 Sponsors — https://github.com/sponsors/PAXECT-Interface

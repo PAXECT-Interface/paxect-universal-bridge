@@ -141,7 +141,7 @@ Trademarks and branding are protected under `TRADEMARKS.md`; source code is lice
 | **Link (Inbox/Outbox Bridge)** | Cross-OS file exchange          | Shared-folder relay: auto-encode non-`.freq` → `.freq`, auto-decode `.freq` → files  | [https://github.com/PAXECT-Interface/paxect-link-plugin](https://github.com/PAXECT-Interface/paxect-link-plugin) 
 
 
-
+https://github.com/PAXECT-Interface/paxect-core-complete
 
 
 ## 📬 Contact & Community  

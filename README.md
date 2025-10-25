@@ -129,6 +129,20 @@ Trademarks and branding are protected under `TRADEMARKS.md`; source code is lice
 > 💡 *“Determinism is not a feature — it’s a foundation.”*
 
 ---
+## Plugins (official)
+
+
+| Plugin                         | Scope                           | Highlights                                                                           | Repo                                                                                                                           |
+| ------------------------------ | ------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Core**                       | Deterministic container         | `.freq` v42 · multi-channel · CRC32+SHA-256 · cross-OS · offline · no-AI             | [https://github.com/PAXECT-Interface/paxect-core-plugin.git](https://github.com/PAXECT-Interface/paxect-core-plugin.git)                             |
+| **AEAD Hybrid**                | Confidentiality & integrity     | Hybrid AES-GCM/ChaCha20-Poly1305 — fast, zero-dep, cross-OS                          | [https://github.com/PAXECT-Interface/paxect-aead-hybrid-plugin](https://github.com/PAXECT-Interface/paxect-aead-hybrid-plugin) |
+| **Polyglot**                   | Language bindings               | Python · Node.js · Go — identical deterministic pipeline                             | [https://github.com/PAXECT-Interface/paxect-polyglot-plugin](https://github.com/PAXECT-Interface/paxect-polyglot-plugin)       |
+| **SelfTune 5-in-1**            | Runtime control & observability | No-AI guardrails, overhead caps, backpressure, jitter smoothing, lightweight metrics | [https://github.com/PAXECT-Interface/paxect-selftune-plugin](https://github.com/PAXECT-Interface/paxect-selftune-plugin)       |
+| **Link (Inbox/Outbox Bridge)** | Cross-OS file exchange          | Shared-folder relay: auto-encode non-`.freq` → `.freq`, auto-decode `.freq` → files  | [https://github.com/PAXECT-Interface/paxect-link-plugin](https://github.com/PAXECT-Interface/paxect-link-plugin) 
+
+
+
+
 
 ## 📬 Contact & Community  
 - 💬 Discussions — [https://github.com/PAXECT-Interface/paxect-core-complete/discussions](https://github.com/PAXECT-Interface/paxect-core-complete/discussions)  

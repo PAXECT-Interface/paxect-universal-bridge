@@ -154,3 +154,4 @@ https://github.com/PAXECT-Interface/paxect-core-complete
 
 *PAXECT — not another system, but a language of autonomous precision.*
 
+Copyright © 2025 **PAXECT Systems** — All rights reserved.

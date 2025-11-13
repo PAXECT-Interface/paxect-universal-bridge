@@ -12,7 +12,7 @@ but through precision, logic, and mutual understanding between machines.
 
 ---
 
-## 🧩 The Core of Determinism  
+##  The Core of Determinism  
 PAXECT began with a question:  
 what if every operation — every line of code — could always produce the same result,  
 no matter where it runs?  
@@ -50,7 +50,7 @@ It’s the starting point.
 
 ---
 
-## 🧠 The Philosophy Behind PAXECT  
+##  The Philosophy Behind PAXECT  
 PAXECT Systems builds more than software — it builds **trust**.  
 Every function, every frame, every verification reflects one belief:  
 that the future of digital communication depends on verifiability and autonomy.  
@@ -71,7 +71,7 @@ humans can build fearlessly.
 
 ---
 
-### 🧾 Governance & Stewardship  
+###  Governance & Stewardship  
 PAXECT is maintained by the **PAXECT-Interface collective**,  
 guided by its founder and supported by contributors who share one vision:  
 software that understands itself and stands the test of time.  
@@ -82,14 +82,14 @@ remains verifiable tomorrow.
 
 ---
 
-## 🔍 Technical Overview  
+##  Technical Overview  
 While PAXECT began as a vision, it’s also a fully reproducible runtime.  
 Below you’ll find the structured overview — built for developers, researchers, and enterprises  
 who need deterministic, cross-language, and multi-OS reproducibility.
 
 ---
 
-### 🧩 Deterministic Runtime  
+###  Deterministic Runtime  
 PAXECT Core guarantees **predictable, bit-identical results** across any platform.  
 Each `.freq` container validates its data with CRC32 and SHA-256, ensuring full end-to-end integrity.  
 Ideal for research, automation, and reproducible CI/CD pipelines where consistency truly matters.
@@ -110,18 +110,18 @@ Offline operation and transparent audits make PAXECT Core aligned with **NIS2** 
 
 ---
 
-## 🧠 About PAXECT Systems  
+##  About PAXECT Systems  
 **PAXECT Systems** develops reproducible, privacy-first infrastructure for the next generation of software ecosystems.  
 Our mission: make every computation verifiable — across any operating system, language, or hardware.  
 We believe deterministic software is the foundation of **digital hygiene**, transparency, and long-term trust in automation.
 
-### 🧩 What We Stand For  
+###  What We Stand For  
 - **Determinism first:** identical results across OSes and languages  
 - **Privacy by default:** no telemetry, no analytics, no tracking  
 - **Open collaboration:** transparent governance and verifiable builds  
 - **Sustainability:** fair, open-source model with enterprise support  
 
-### 🧾 Author & Governance  
+###  Author & Governance  
 PAXECT is maintained by the **PAXECT-Interface collective**, led by the project Owner and supported by community contributors.  
 All merges and architectural decisions follow deterministic CI checks and responsible review policies.  
 Trademarks and branding are protected under `TRADEMARKS.md`; source code is licensed under **Apache 2.0**.
